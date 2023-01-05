@@ -19,4 +19,4 @@
   $carDao->create($newCar);
 
   // Redireciona para a página de cadastro
-  header("Location: index.php");//
+  header("Location: index.php");
